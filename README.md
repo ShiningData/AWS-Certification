@@ -79,6 +79,8 @@ This AWS Certified Cloud Practitioner Practice Exam Course covers EVERYTHING you
 
 [Training Notes](https://github.com/ShiningData/AWS-Certification/blob/main/Training%20Notes.pdf)
 
+[Code Commands and Reference Links](https://github.com/ShiningData/AWS-Certification/blob/main/Code%20Commands%20and%20Reference%20Links.pdf)
+
 
 
 
