@@ -81,6 +81,8 @@ This AWS Certified Cloud Practitioner Practice Exam Course covers EVERYTHING you
 
 [Code Commands and Reference Links](https://github.com/ShiningData/AWS-Certification/blob/main/Code%20Commands%20and%20Reference%20Links.pdf)
 
+[AWS Cloud Practitioner 20 Days Study Plan](https://github.com/ShiningData/AWS-Certification/blob/main/AWS%20Cloud%20Practitioner%2020%20Day%20Study%20Plan.pdf)
+
 
 
 
