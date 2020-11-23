@@ -1,7 +1,7 @@
 # AWS-Certification
 This repository includes documentation, resources, and links for preparation to AWS certifications.
 
-# AWS Certified Cloud Practiioner
+# AWS Certified Cloud Practioner
 
 **Question Distribution**
 
