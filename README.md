@@ -50,10 +50,6 @@ Test Domains:
 
 [AWS Certified Cloud Practitioner Exam Training 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/)
 
-**Supporting Resources**
-
-[Cheat Sheets](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
-
 
 **Exam Preparation**
 
@@ -66,3 +62,29 @@ You may need to solve those questions 2-3 times until you reach at least %80 of 
 This AWS Certified Cloud Practitioner Practice Exam Course covers EVERYTHING you need to pass the exam on your first try.
 
 [AWS Certified Cloud Practitioner: 6 Full Practice Exams 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test/)
+
+[Free Online AWS Certified Cloud Practitioner Tests](https://chercher.tech/aws-certification/aws-clf-c01-certified-cloud-certification-1)
+
+**Documentation**
+
+[Amazon Web Services Web Services](https://github.com/ShiningData/AWS-Certification/blob/main/Amazon%20Web%20Services%20Overview.pdf)
+
+[Course PPT Slides](https://github.com/ShiningData/AWS-Certification/blob/main/Course%20PPT%20Slides.pdf)
+
+[Exam Cram Notes](https://github.com/ShiningData/AWS-Certification/blob/main/Exam%20Cram%20Notes.pdf)
+
+[Cheat Sheets Web Link](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
+
+[Cheat Sheet](https://github.com/ShiningData/AWS-Certification/blob/main/Cheat%20Sheet.pdf)
+
+[Training Notes](https://github.com/ShiningData/AWS-Certification/blob/main/Training%20Notes.pdf)
+
+
+
+
+
+
+
+
+
+
