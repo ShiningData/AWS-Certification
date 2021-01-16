@@ -50,7 +50,7 @@ Test Domains:
 
 **Main Preparation Course**
 
-[AWS Certified Cloud Practitioner Exam Training 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/)  (&#x1F536;)
+[AWS Certified Cloud Practitioner Exam Training 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/)  &#x1F536; &#x1F536; &#x1F536;
 
 
 **Exam Preparation**
