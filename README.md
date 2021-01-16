@@ -63,7 +63,7 @@ You may need to solve those questions 2-3 times until you reach at least %80 of 
 
 This AWS Certified Cloud Practitioner Practice Exam Course covers EVERYTHING you need to pass the exam on your first try.
 
-[AWS Certified Cloud Practitioner: 6 Full Practice Exams 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test/) ***
+[AWS Certified Cloud Practitioner: 6 Full Practice Exams 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test/) &#x1F536; &#x1F536; &#x1F536;
 
 [Free Online AWS Certified Cloud Practitioner Tests](https://chercher.tech/aws-certification/aws-clf-c01-certified-cloud-certification-1)
 
@@ -73,13 +73,13 @@ This AWS Certified Cloud Practitioner Practice Exam Course covers EVERYTHING you
 
 [Course PPT Slides](https://github.com/ShiningData/AWS-Certification/blob/main/Course%20PPT%20Slides.pdf)
 
-[Exam Cram Notes](https://github.com/ShiningData/AWS-Certification/blob/main/Exam%20Cram%20Notes.pdf) ***
+[Exam Cram Notes](https://github.com/ShiningData/AWS-Certification/blob/main/Exam%20Cram%20Notes.pdf) &#x1F536; &#x1F536; &#x1F536;
 
-[Cheat Sheets Web Link](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/) ***
+[Cheat Sheets Web Link](https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/) &#x1F536; &#x1F536; &#x1F536;
 
 [Cheat Sheet](https://github.com/ShiningData/AWS-Certification/blob/main/Cheat%20Sheet.pdf)
 
-[Personal Exam Preparation Notes](https://github.com/ShiningData/AWS-Certification/tree/main/AWS_CCP_PersonalNotes) ***
+[Personal Exam Preparation Notes](https://github.com/ShiningData/AWS-Certification/tree/main/AWS_CCP_PersonalNotes) &#x1F536; &#x1F536; &#x1F536;
 
 [Training Notes](https://github.com/ShiningData/AWS-Certification/blob/main/Training%20Notes.pdf)
 
