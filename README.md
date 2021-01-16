@@ -44,6 +44,8 @@ Test Domains:
     Recognize the various account structures in relation to AWS billing and pricing 
 
     Identify resources available for billing support
+    
+[AWS Certified Cloud Practitioner Exam Guide](https://github.com/ShiningData/AWS-Certification)
 
 
 **Main Preparation Course**
