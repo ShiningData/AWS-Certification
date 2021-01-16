@@ -45,7 +45,7 @@ Test Domains:
 
     Identify resources available for billing support
     
-[AWS Certified Cloud Practitioner Exam Guide](https://github.com/ShiningData/AWS-Certification)
+[AWS Certified Cloud Practitioner Exam Guide](https://github.com/ShiningData/AWS-Certification/blob/main/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 
 **Main Preparation Course**
